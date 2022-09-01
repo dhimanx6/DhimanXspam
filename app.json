@@ -1,7 +1,7 @@
 {
-    "name": "MKXSPAM HERE.",
+    "name": "𝘿𝙃𝙄𝙈𝘼𝙉 𝙓 𝙎𝙋𝘼𝙈",
     "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
-    "logo": "https://te.legra.ph/file/a2beccc714b5f011dd42d.jpg",
+    "logo": "https://telegra.ph/file/ce8efab574dd85199b3f3.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -83,12 +83,12 @@
       },
        "SUDO_USER": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "5557243807",
             "required": false
         },
       "OWNER_ID": {
             "description": "Owner Id",
-            "value": "",
+            "value": "5557243807",
             "required": true
         },
         "HEROKU_API_KEY": {
